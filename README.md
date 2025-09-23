@@ -34,6 +34,7 @@
 
 * ✉️ Email: [omdaundkar007@gmail.com](mailto:omdaundkar007@gmail.com)
 * 💼 LinkedIn: [Om Daundkar](https://www.linkedin.com/in/om-daundkar-220814376)
+* 📲 Contact: 91+9309477866
 
 ---
 
