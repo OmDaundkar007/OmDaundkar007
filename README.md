@@ -15,7 +15,7 @@
 
 ## 🔥 Projects
 
-* 📋 [**Invoice Generator**](https://github.com/OmDaundkar007/Invoice-Generator) – A smart invoice generator for small businesses with auto-suggestions & PDF export
+* 📋 [**Invoice Generator**](https://github.com/OmDaundkar007/Invoice-Generator) – A smart invoice generator for business with auto-suggestions & PDF export
 * 💊 [**MediCheck**](https://github.com/OmDaundkar007/MediCheck) – Medicine expiry & stock tracker with reminders and offline support
 
 
