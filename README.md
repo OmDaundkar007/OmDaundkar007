@@ -26,7 +26,7 @@
 **Frontend:** HTML, CSS, JavaScript, React.js, Flutter
 **Backend:** Node.js, Express.js, Flask
 **Database:** MongoDB, Firebase
-**Other Tools:** Git, GitHub, jsPDF, Chart.js, APIs
+**Other Tools:** Git, GitHub, jsPDF, APIs
 
 ---
 
